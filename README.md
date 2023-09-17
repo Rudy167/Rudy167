@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 🔭 I am currently working as a full stack developer!
-
+## :fire: https://github-readme-streak-stats.herokuapp.com/?user=Rudy167
 <!--
 **Rudy167/Rudy167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
