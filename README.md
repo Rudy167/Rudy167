@@ -1,7 +1,19 @@
-### Hi there 👋
+---
 
-## 🔭 I am currently working as a full stack developer!
-## :fire: My stats: [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rudy167&theme=dark&background=000000)](https://git.io/streak-stats)
+### :man_technologist: About Me :
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/amit-dhotay)
+
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. <br>
+:fire: My stats: <br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rudy167&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **Rudy167/Rudy167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
