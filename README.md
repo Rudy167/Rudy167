@@ -34,10 +34,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<hr>
 
-:fire: My stats: <br>
+### :fire: My Stats : <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rudy167&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudy167&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
