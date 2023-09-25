@@ -1,6 +1,6 @@
 
 
-### :man_technologist: About Me :
+### :man_technologist: About Me :):
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Rudy167)
 
