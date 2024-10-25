@@ -2,9 +2,6 @@
 
 ### :man_technologist: About Me:
 
-![GitHub Views](https://komarev.com/ghpvc/?username=Rudy167)
-
-
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. <br>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -47,4 +44,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudy167&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+![GitHub Views](https://komarev.com/ghpvc/?username=Rudy167)
