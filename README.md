@@ -44,4 +44,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudy167&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 📚: Excited to hear your opinion on : <br>
+📘 Clean Code : Robert Martin(Uncle Bob)
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=Rudy167)
