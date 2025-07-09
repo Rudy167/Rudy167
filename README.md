@@ -10,10 +10,6 @@ Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 
 - :zap: In my free time, I solve problems on leetcode and read tech articles.
 
-- :mailbox: How to reach me:
-- [![Linkedin Badge](https://img.shields.io/badge/-Amit_Dhotay-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/amit-dhotay).
-
-
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
