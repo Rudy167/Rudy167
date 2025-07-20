@@ -45,11 +45,3 @@ Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 📘 Clean Code : Robert Martin(Uncle Bob) <br>
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkWKXgzjLGiN40SYLFTxHYeRwPv1G29niow&s)
 
-
-
-
-
-
-
-
-![GitHub Views](https://komarev.com/ghpvc/?username=Rudy167)
