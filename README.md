@@ -28,11 +28,11 @@
 ## 🔥 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudy167&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-writes-code&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rudy167&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amit-writes-code&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
@@ -64,4 +64,4 @@
 
 ---
 
-<p align="center"><i>⭐️ From <a href="https://github.com/Rudy167">Rudy167</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/amit-writes-code">amit-writes-code</a></i></p>
