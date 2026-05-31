@@ -31,9 +31,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudy167&theme=tokyonight" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rudy167&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
 
 ---
 
