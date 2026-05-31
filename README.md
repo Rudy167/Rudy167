@@ -20,17 +20,12 @@
 ## 🛠️ Backend & Infrastructure Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,nodejs,express,ts,postgres,mysql,mongodb,redis,docker,kubernetes,aws,gcp,linux,nginx,bash,git,github&perline=6" alt="Backend and infra stack" />
+  <img src="https://skillicons.dev/icons?i=go,ts,postgres,mysql,mongodb,redis,docker,aws,linux,bash,git,github&perline=6" alt="Backend and infra stack" />
 </p>
 
 ---
 
 ## 🔥 My GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rudy167&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudy167&layout=compact&theme=tokyonight&langs_count=8" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudy167&theme=tokyonight" alt="GitHub streak" />
@@ -56,11 +51,8 @@
   <a href="mailto:amit.dhotay.codes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/Rudy167" target="_blank">
+  <a href="https://www.linkedin.com/amit.dhotay" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/Rudy167" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://leetcode.com/Rudy167" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
@@ -71,9 +63,5 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rudy167&label=Profile%20views&color=2F81F7&style=flat" alt="Profile views" />
-</p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/Rudy167">Rudy167</a></i></p>
