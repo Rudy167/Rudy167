@@ -31,10 +31,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-writes-code&theme=tokyonight" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amit-writes-code&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
 ---
 
 ## 📚 Currently Reading
@@ -57,7 +53,7 @@
   <a href="https://www.linkedin.com/in/amit-dhotay/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://dev.to/Rudy167" target="_blank">
+  <a href="https://dev.to/amitwritescode" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
 </p>
